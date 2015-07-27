@@ -26,4 +26,6 @@
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
 
+This is a quiz about Kaitlin.
+
 ???
