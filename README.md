@@ -19,4 +19,11 @@
 [ ] Vanilla Ice Cream
 [X] Chocolate
 
+
+?: What is Kaitlin's favorite book?
+
+( ) Canada
+( ) To Kill a Mockingbird
+(X) Ruby for Dummies
+
 ???
