@@ -26,4 +26,12 @@
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
 
+?: Where has Kaitlin traveled?
+
+[ ] Morocco
+[X] Bocas del Toro
+[X] Spain
+[ ] Portland, Oregon
+[X] Lisbon
+
 ???
