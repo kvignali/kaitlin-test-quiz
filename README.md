@@ -19,11 +19,19 @@
 [ ] Vanilla Ice Cream
 [X] Chocolate
 
-
 ?: What is Kaitlin's favorite book?
 
 ( ) Canada
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
+
+?: Where has Kaitlin traveled?
+
+[ ] Morocco
+[X] Bocas del Toro
+[X] Spain
+[ ] Portland, Oregon
+[X] Lisbon
+
 
 ???
