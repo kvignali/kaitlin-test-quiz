@@ -10,6 +10,7 @@
 ( ) Sweetie
 ( ) Pineapple
 (X) Sandy
+( ) Sassafrass
 
 ?: What are Kaitlin's favorite foods?
 
