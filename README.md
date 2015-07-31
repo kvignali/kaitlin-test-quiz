@@ -25,5 +25,6 @@
 ( ) Canada
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
+( ) Harry Potter and the Sorcerer's Stone
 
 ???
