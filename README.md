@@ -11,7 +11,7 @@
 ( ) Pineapple
 (X) Sandy
 
-?: What are Kaitlin's favorite foods?
+?: What are Kaitlin's favorite foods? Yummm
 
 [ ] Raisins
 [X] Pizza
