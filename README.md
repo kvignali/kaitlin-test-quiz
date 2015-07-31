@@ -1,7 +1,7 @@
 # kaitlin-test-quiz
 ???
 
-# Quiz about Kaitlin
+# Quiz about Kaitlin Vignali
 
 ?: What was the name of Kaitlin's first dog?
 
